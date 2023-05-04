@@ -7,7 +7,7 @@
 <p align="left">
 </p>
 
-<video width="320" height="240" controls src="https://youtu.be/XVPyEYn3Xzw"></video>
+<video width="320" height="240" controls src="https://youtu.be/XVPyEYn3Xzw" type="video"></video>
 
 
 <h3 align="left">Languages and Tools:</h3>
