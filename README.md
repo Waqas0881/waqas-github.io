@@ -6,9 +6,7 @@
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=360" >
 <p align="left">
 </p>
-<video controls="">
-      <source src="https://youtu.be/XVPyEYn3Xzw" type="video">
-  </video>
+<video width="320" height="240" controls src="https://youtu.be/XVPyEYn3Xzw">  </video>
 
 
 <h3 align="left">Languages and Tools:</h3>
