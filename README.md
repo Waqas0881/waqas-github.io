@@ -7,8 +7,7 @@
 <p align="left">
 </p>
 
-<video width="320" height="240" controls>
-  <source src="https://youtu.be/XVPyEYn3Xzw" type="video/mp4">
+<video width="320" height="240" controls src="https://youtu.be/XVPyEYn3Xzw"
  
 </video>
 
